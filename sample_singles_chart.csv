@@ -1,0 +1,31 @@
+chart_date,rank,artist,title,musicbrainz_name,aus_flag,location
+1988-01-04,1,Rick Astley,Never Gonna Give You Up,NA,FALSE,non-Australian
+1988-01-04,2,INXS,Need You Tonight,INXS,TRUE,Australia
+1988-01-04,3,Kylie Minogue,I Should Be So Lucky,Kylie Minogue,TRUE,Australia
+1988-01-04,4,Michael Jackson,Bad,Michael Jackson,FALSE,non-Australian
+1988-01-04,5,U2,With Or Without You,U2,FALSE,non-Australian
+1988-01-11,1,INXS,Need You Tonight,INXS,TRUE,Australia
+1988-01-11,2,Kylie Minogue,I Should Be So Lucky,Kylie Minogue,TRUE,Australia
+1988-01-11,3,Rick Astley,Never Gonna Give You Up,NA,FALSE,non-Australian
+1988-01-11,4,Michael Jackson,Bad,Michael Jackson,FALSE,non-Australian
+1988-01-11,5,Men at Work,Down Under,Men at Work,TRUE,Australia
+2023-01-02,1,Taylor Swift,Anti-Hero,Taylor Swift,FALSE,non-Australian
+2023-01-02,2,Sam Smith & Kim Petras,Unholy,Sam Smith,FALSE,non-Australian
+2023-01-02,3,The Kid LAROI,Stay,The Kid LAROI,TRUE,Australia
+2023-01-02,4,Ed Sheeran,Shivers,Ed Sheeran,FALSE,non-Australian
+2023-01-02,5,Harry Styles,As It Was,Harry Styles,FALSE,non-Australian
+2023-01-09,1,Taylor Swift,Anti-Hero,Taylor Swift,FALSE,non-Australian
+2023-01-09,2,The Kid LAROI,Stay,The Kid LAROI,TRUE,Australia
+2023-01-09,3,Sam Smith & Kim Petras,Unholy,Sam Smith,FALSE,non-Australian
+2023-01-09,4,Harry Styles,As It Was,Harry Styles,FALSE,non-Australian
+2023-01-09,5,Sia,Chandelier,Sia,TRUE,Australia
+2024-01-01,1,Doja Cat,Paint The Town Red,Doja Cat,FALSE,non-Australian
+2024-01-01,2,Tones and I,Dance Monkey,Tones and I,TRUE,Australia
+2024-01-01,3,The Weeknd,Blinding Lights,The Weeknd,FALSE,non-Australian
+2024-01-01,4,Billie Eilish,Bad Guy,Billie Eilish,FALSE,non-Australian
+2024-01-01,5,Flume ft. Tove Lo,Say It,Flume,TRUE,Australia
+2024-01-08,1,Tones and I,Dance Monkey,Tones and I,TRUE,Australia
+2024-01-08,2,The Weeknd,Blinding Lights,The Weeknd,FALSE,non-Australian
+2024-01-08,3,Doja Cat,Paint The Town Red,Doja Cat,FALSE,non-Australian
+2024-01-08,4,5 Seconds of Summer,Youngblood,5 Seconds of Summer,TRUE,Australia
+2024-01-08,5,Billie Eilish,Bad Guy,Billie Eilish,FALSE,non-Australian
