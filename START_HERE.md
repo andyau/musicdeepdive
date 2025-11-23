@@ -2,7 +2,7 @@
 
 **For analyzing Casey Briggs' ARIA Charts Dataset**
 
-I apologize for the earlier confusion with the election data! This toolkit is correctly built for **ARIA music charts** analysis. Here's everything you need to get started.
+This toolkit is correctly built for **ARIA music charts** analysis. Here's everything you need to get started.
 
 ---
 
